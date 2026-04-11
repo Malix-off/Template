@@ -1,12 +1,12 @@
 # [@Malix-Labs](https://github.com/Malix-Labs) Own [Repository Template](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
-After creating a repository from the [@Malix-Labs](https://github.com/Malix-Labs) [repository template](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), this file has to be cleared.
+After creating a repository from the [@Malix-Labs](https://github.com/Malix-Labs) [repository template](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), this file is to be cleared.
 It is accessible online at <https://github.com/Malix-Labs/Template#readme>
 
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-2. [ ] Search "`github.com/Malix-Labs/REPOSITORY`" and replace all "`REPOSITORY`" by the Repository name
+2. [ ] Search "`github.com/Malix-Labs/<REPOSITORY>`" and replace all "`<REPOSITORY>`" by the Repository name
 3. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Labs/Template#github-settings)
 4. [ ] Copy all [this repository GitHub Labels](https://github.com/Malix-Labs/Template#github-labels)
 
